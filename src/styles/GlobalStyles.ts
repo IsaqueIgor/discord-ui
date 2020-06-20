@@ -37,5 +37,6 @@ export default createGlobalStyle`
     --mention-message: #413f3f;
  
     --link: #5d80d6;
+    --isaque: #066Ed5;
     }
 `;

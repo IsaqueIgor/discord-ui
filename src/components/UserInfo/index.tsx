@@ -11,15 +11,14 @@ import {
   SettingsIcon,
 } from './styles';
 
-
 const UserInfo: React.FC = () => {
-    return (
+  return (
     <Container>
       <Profile>
         <Avatar />
         <UserData>
-          <strong>Guilherme Rodz</strong>
-          <span>#2689</span>
+          <strong>Isaque Igor</strong>
+          <span>#1996</span>
         </UserData>
       </Profile>
 
@@ -29,6 +28,7 @@ const UserInfo: React.FC = () => {
         <SettingsIcon />
       </Icons>
     </Container>
-}
+  );
+};
 
-export Default UserInfo;
+export default UserInfo;

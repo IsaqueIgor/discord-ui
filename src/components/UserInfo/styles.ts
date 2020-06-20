@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import { Mic, Headset, Settings } from 'styled-icons';
+import { Mic, Headset, Settings } from '@styled-icons/material';
 
 export const Container = styled.div`
   grid-area: UI;
