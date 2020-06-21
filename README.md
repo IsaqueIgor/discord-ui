@@ -1,44 +1,62 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+    <img alt="Discord" title="#discord" src=".github/logo.png" width="250px" />
+</h1>
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/IsaqueIgor/discord-ui?color=%2304D361">
 
-## Available Scripts
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/IsaqueIgor/discord-ui">
 
-In the project directory, you can run:
+  <a href="https://www.linkedin.com/in/isaqueigor/">
+    <img alt="Made by IsaqueIgor" src="https://img.shields.io/badge/made%20by-IsaqueIgor-%2304D361">
+  </a>
 
-### `yarn start`
+  <a href="https://github.com/IsaqueIgor/discord-ui/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/IsaqueIgor/discord-ui">
+  </a>
+</p>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<p align="center">
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## 💻 Project
 
-### `yarn test`
+Discord is a proprietary freeware VoIP application and digital distribution platform designed for creating communities ranging from gamers to education and businesses.
+this project was built aiming to develop skills in the following technologies.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## :rocket: Technologies
 
-### `yarn build`
+This project was developed with the following technologies:
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [React][reactjs]
+- [Typescript][typescript]
+- [CSS Grid][css]
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## 🔖 Layout
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<p aling="center">
+    <img alt="layout" title="#layout" src=".github/Layout.png" width="900px" />
+    
+</p>
 
-### `yarn eject`
+## 🤔 How to contribute
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- Make a fork;
+- Create a branck with your feature: `git checkout -b my-feature`;
+- Commit changes: `git commit -m 'feat: My new feature'`;
+- Make a push to your branch: `git push origin my-feature`.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+After merging your receipt request to done, you can delete a branch from yours.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## :memo: License
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+This project is under the MIT license. See the [LICENSE](LICENSE.md) for details.
 
-## Learn More
+Made with ♥ by Isaque Igor :wave: [Get in touch!](https://www.linkedin.com/in/isaqueigor/)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+[reactjs]: https://reactjs.org
+[typescript]: https://www.typescriptlang.org/
+[css]: https://learncssgrid.com/
