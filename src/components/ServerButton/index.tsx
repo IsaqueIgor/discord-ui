@@ -2,7 +2,7 @@ import React from 'react';
 
 import { Button } from './styles';
 
-const Logo = require('../../assets/Logo.svg') as string;
+const Logo = require('../../assets/logod.png') as string;
 
 export interface Props {
   selected?: boolean;
